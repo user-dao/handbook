@@ -4,3 +4,5 @@ Company are drowning in data, but have a weak connection between the insight the
 
 In our view the gap between Analytics and UX is too large is most organizations.&#x20;
 
+So we have more thoughts on this.  Grab a beer.&#x20;
+
