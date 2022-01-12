@@ -12,6 +12,7 @@
 * [Strategy and Approach](client-engagements/strategy-and-approach.md)
 * [Process](client-engagements/process.md)
 * [Analytics](client-engagements/analytics.md)
+* [UX](client-engagements/ux.md)
 
 ## Membership
 
