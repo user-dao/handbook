@@ -14,18 +14,18 @@ This means managing the full breadth of the engagement lifecycle for our Web 3 c
 
 ### What we’re looking for:
 
-* 2+ years of project management experience&#x20;
-* 2+ years of experience working with a digital consulting firm or agency
-* Must be able to demonstrate an understanding of CRO, testing and optimization methodologies&#x20;
-* Experience with face-to-face interaction with clients (using remote video conferencing)&#x20;
+* 2+ years of digital project management experience&#x20;
+* Must be able to demonstrate an understanding of the design and web development process&#x20;
+* Experience with interacting with a variety of stakeholders and driving successful outcomes
 * Excellent oral and written communication, and interpersonal skills&#x20;
 * Undergraduate degree or equivalent&#x20;
-* Must have a strong interest and understanding of Web 3, including blockchain, NFTs, DeFi, and cryptocurrency.
+* Must have a strong interest in Web 3, including blockchain, NFTs, DeFi, and cryptocurrency.
 * Extra credit: :heart:
   * Additional language skills (especially Spanish)&#x20;
   * Training in project management&#x20;
   * Work experience in Web 3&#x20;
   * Working knowledge of the Web 3 tech stack (including Javascript, HTML, Solidity, EVMs etc.)
+  * Has cute pets who can make an appearance on Zoom.&#x20;
 
 #### What we’re not looking for:
 
