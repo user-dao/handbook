@@ -1,15 +1,5 @@
 # Introduction
 
-You can give it a number if you'd like.
+UserDAO is a fully-remote, Web 3 native consultancy owned and operated by a tight-knit team of US-based professionals with decades of experience helping top brands design, measure, test and build a better internet.&#x20;
 
-Web 3.
-
-Or you can give it a name. The metaverse, blockchain, the decentralized web.
-
-The thing about a technological frontier is, you can never really reach it -- once you're there, it's no longer a frontier.
-
-That's why you set out to do what you do -- to create new frontiers, to unlock new possibilities, to increment the version number on the internet.
-
-It's your job to build. And it's our job to help you.
-
-To help you design better, learn faster, and to help your users make sense of it all, whatever they call it. Introducing UserDAO, a company of friends in an anonymized world.
+Our goal is to accelerate the adoption of web3 by connecting with the new breed of business leaders to solve the user problems that plague today’s Web 3 implementations – clumsy design, high cognitive load, and technical complexity. But that’s just, like, our opinion, man.
