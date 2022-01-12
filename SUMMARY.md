@@ -3,7 +3,7 @@
 ## User DAO
 
 * [Introduction](README.md)
-* [Vision and Values](user-dao/vision-and-values.md)
+* [Values and Culture](user-dao/values-and-culture.md)
 * [Operating Structure](user-dao/operating-structure.md)
 * [Problems we want to solve](user-dao/problems-we-want-to-solve.md)
 
