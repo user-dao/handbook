@@ -16,4 +16,5 @@
 
 ## Membership
 
-* [Become a Member](membership/become-a-member.md)
+* [Become a Member](membership/become-a-member/README.md)
+  * [Project Manager User DAO](membership/become-a-member/project-manager-user-dao.md)
