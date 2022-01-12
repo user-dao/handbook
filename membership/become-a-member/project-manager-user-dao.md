@@ -31,7 +31,7 @@ This means managing the full breadth of the engagement lifecycle for our Web 3 c
 
 Candidates with strong interest in Web 3 but no experience in project management Candidates who have never worked for an agency or consulting firm Candidates who are looking for part-time work
 
-What we offer:
+#### What we offer:
 
 * Competitive salary and benefits package with medical and dental&#x20;
 * The chance to work in a fast-paced start-up environment&#x20;
